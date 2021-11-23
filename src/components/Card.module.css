@@ -1,0 +1,37 @@
+.cont {
+  width: 770px;
+  height: 400px;
+  margin: 50px auto;
+  padding: 20px 40px;
+}
+.date {
+  float: left;
+  font-size: 20px;
+  font-weight: 500;
+}
+.imgCont {
+  float: right;
+  margin-top: 20px;
+}
+img {
+  width: 80px;
+}
+.textCont {
+  text-align: center;
+  padding-top: 15px;
+  height: 30px;
+  width: 100px;
+  background: black;
+  color: white;
+}
+.text {
+  margin-top: 0;
+}
+.heading {
+  font-size: 40px;
+}
+.device {
+  margin-top: 35px;
+  font-size: 20px;
+  font-weight: 700;
+}
